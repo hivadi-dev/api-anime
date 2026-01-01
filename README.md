@@ -4,6 +4,7 @@
 
 <img width="1888" height="815" alt="Image" src="https://github.com/user-attachments/assets/596352b8-fad8-475c-9a29-66a8bbddab20" /># aoi-anime
 
+https://hivadi-dev.github.io/api-anime/
 
 
 - Developed by hiva dargazani
